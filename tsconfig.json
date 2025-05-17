@@ -10,8 +10,8 @@
       "@components/*": ["src/components/*"]
     },
     "allowSyntheticDefaultImports": true,
-    "allowImportingTsExtensions": true,
-    "strict": true
+    "strict": true,
+    "noEmit": true
   },
   "include": ["src"]
 }
